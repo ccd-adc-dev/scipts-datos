@@ -1,0 +1,2065 @@
+.
+├── algica
+│   ├── audios
+│   ├── fotografias
+│   ├── kickapoo
+│   │   ├── audios
+│   │   ├── fotografias
+│   │   ├── kickapoo
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   │   ├── Artesanías_kickapoo_AEO_4.jpg
+│   │   │   │   ├── Artesanías_kickapoo_AEO_5.jpg
+│   │   │   │   ├── Artesanías_kickapoo_AEO_7.jpg
+│   │   │   └── textiles
+│   │   └── textiles
+│   └── textiles
+├── chontaldeoaxaca
+│   ├── audios
+│   ├── chontaldeoaxaca
+│   │   ├── audios
+│   │   │   ├── FN08010153102.mp3
+│   │   ├── chontaldeoaxacaalto
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── chontaldeoaxacabajo
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── chontaldeoaxacadelacosta
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── fotografias
+│   │   └── textiles
+│   ├── fotografias
+│   └── textiles
+├── cochimiyumana
+│   ├── audios
+│   ├── cucapa
+│   │   ├── audios
+│   │   ├── cucapa
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── fotografias
+│   │   └── textiles
+│   ├── fotografias
+│   ├── kiliwa
+│   │   ├── audios
+│   │   ├── fotografias
+│   │   ├── kiliwa
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   │   ├── Vida cotidiana_kiliwa_LIARM_1.jpg
+│   │   │   │   └── Vida cotidiana_kiliwa_LIARM_4.jpg
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── kuahl
+│   │   ├── audios
+│   │   ├── fotografias
+│   │   ├── kuahl
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   │   └── Vida cotidiana_kuahl_LIARM_3.jpg
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── kumiai
+│   │   ├── audios
+│   │   │   ├── FN16040044845_05.wav
+│   │   ├── fotografias
+│   │   ├── kumiai
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   │   ├── Difusión de la lengua y la cultura_kumiai_MLNM_2.jpg
+│   │   │   │   ├── Difusión de lengua y cultura_kumiai_LIARM_1.jpg
+│   │   │   │   ├── KUMIAI_5.jpg
+│   │   │   │   ├── Lotería_kumiai_AIAM_4.jpg
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── paipai
+│   │   ├── audios
+│   │   ├── fotografias
+│   │   ├── paipai
+│   │   │   ├── audios
+│   │   │   │   ├── FN08040000879_04.wav
+│   │   │   │   ├── FN08040000879_27.wav
+│   │   │   │   ├── FN08040000879_32.wav
+│   │   │   ├── fotografias
+│   │   │   │   ├── Aspectos identitarios_paipai_LIARM_2.jpg
+│   │   │   │   ├── Aspectos identitarios_paipai_LIARM_4.jpg
+│   │   │   │   └── Revitalización_paipai_EAAJ_16.jpg
+│   │   │   └── textiles
+│   │   └── textiles
+│   └── textiles
+├── huave
+│   ├── audios
+│   ├── fotografias
+│   ├── huave
+│   │   ├── audios
+│   │   │   ├── FN18060088692_05.wav
+│   │   ├── fotografias
+│   │   ├── huavedeleste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── huavedeloeste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   │   ├── Arquitectura identidad cultura_huave del oeste_SJA_10.jpg
+│   │   │   │   ├── Arquitectura identidad cultura_huave del oeste_SJA_11.jpg
+│   │   │   │   ├── Arquitectura identidad cultura_huave del oeste_SJA_13.jpg
+│   │   │   │   ├── Arquitectura identidad cultura_huave del oeste_SJA_14.jpg
+│   │   │   │   ├── Arquitectura identidad cultura_huave del oeste_SJA_15.jpg
+│   │   │   │   ├── Arquitectura identidad cultura_huave del oeste_SJA_16.jpg
+│   │   │   │   ├── Arquitectura identidad cultura_huave del oeste_SJA_18.jpg
+│   │   │   │   ├── Arquitectura identidad cultura_huave del oeste_SJA_19.jpg
+│   │   │   │   ├── Arquitectura identidad cultura_huave del oeste_SJA_1.jpg
+│   │   │   │   ├── Arquitectura identidad cultura_huave del oeste_SJA_20.jpg
+│   │   │   │   ├── Arquitectura identidad cultura_huave del oeste_SJA_21.jpg
+│   │   │   │   ├── Arquitectura identidad cultura_huave del oeste_SJA_3.jpg
+│   │   │   │   ├── Arquitectura identidad cultura_huave del oeste_SJA_4.jpg
+│   │   │   │   ├── Arquitectura identidad cultura_huave del oeste_SJA_5.jpg
+│   │   │   │   ├── Arquitectura identidad cultura_huave del oeste_SJA_6.jpg
+│   │   │   │   ├── Arquitectura identidad cultura_huave del oeste_SJA_9.jpg
+│   │   │   └── textiles
+│   │   └── textiles
+│   └── textiles
+├── maya
+│   ├── akateko
+│   │   ├── akateko
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── audios
+│   │   ├── fotografias
+│   │   └── textiles
+│   ├── audios
+│   ├── awakateko
+│   │   ├── audios
+│   │   ├── awakateko
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── fotografias
+│   │   └── textiles
+│   ├── chol
+│   │   ├── audios
+│   │   │   ├── FN08040010952_02.wav
+│   │   ├── choldelnoroeste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── choldelsureste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── fotografias
+│   │   └── textiles
+│   ├── chontaldetabasco
+│   │   ├── audios
+│   │   ├── chontaldetabascocentral
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── chontaldetabascodeleste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── chontaldetabascodelnorte
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── chontaldetabascodelsureste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── fotografias
+│   │   └── textiles
+│   ├── chuj
+│   │   ├── audios
+│   │   ├── chuj
+│   │   │   ├── audios
+│   │   │   │   ├── FN16040041497.mp3
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── fotografias
+│   │   └── textiles
+│   ├── fotografias
+│   ├── huasteco
+│   │   ├── audios
+│   │   ├── fotografias
+│   │   ├── huastecodelcentro
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── huastecodeloccidente
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── huastecodeoriente
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── ixil
+│   │   ├── audios
+│   │   ├── fotografias
+│   │   ├── ixilchajuleno
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── ixilnebajeno
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── jakalteko
+│   │   ├── audios
+│   │   │   ├── FN08040000890_17.wav
+│   │   │   ├── FN08040000890_18.wav
+│   │   ├── fotografias
+│   │   ├── jakalteko
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── kaqchikel
+│   │   ├── audios
+│   │   ├── fotografias
+│   │   ├── kaqchikel
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── kiche
+│   │   ├── audios
+│   │   ├── fotografias
+│   │   ├── kiche(central)
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── kiche(occidental)
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── kiche(oriental)
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── lacandon
+│   │   ├── audios
+│   │   ├── fotografias
+│   │   ├── lacandon
+│   │   │   ├── audios
+│   │   │   │   ├── FN16040041498.mp3
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── mam
+│   │   ├── audios
+│   │   ├── fotografias
+│   │   ├── mamdelafrontera
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mamdelasierra
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mamdelnorte
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mamdelsoconusco
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mamdelsur
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── maya
+│   │   ├── audios
+│   │   │   ├── FN16040041640_04.wav
+│   │   │   ├── FN16040041645_13.wav
+│   │   │   ├── FN16040041653_08.wav
+│   │   │   ├── FN17040046734_01.wav
+│   │   ├── fotografias
+│   │   ├── maya
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── qanjobal
+│   │   ├── audios
+│   │   ├── fotografias
+│   │   ├── qanjobal
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── qatok
+│   │   ├── audios
+│   │   ├── fotografias
+│   │   ├── mocho
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── textiles
+│   │   └── tuzanteco
+│   │       ├── audios
+│   │       ├── fotografias
+│   │       └── textiles
+│   ├── qeqchi
+│   │   ├── audios
+│   │   ├── fotografias
+│   │   ├── qeqchi
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── teko
+│   │   ├── audios
+│   │   ├── fotografias
+│   │   ├── teko
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── textiles
+│   ├── tojolabal
+│   │   ├── audios
+│   │   ├── fotografias
+│   │   ├── textiles
+│   │   └── tojolabal
+│   │       ├── audios
+│   │       │   ├── FN08040000879_09.wav
+│   │       │   ├── FN08040000879_21.wav
+│   │       │   ├── FN08040000890_06.wav
+│   │       │   ├── FN08040000890_10.wav
+│   │       ├── fotografias
+│   │       └── textiles
+│   ├── tseltal
+│   │   ├── audios
+│   │   │   ├── 10.mp3
+│   │   │   ├── 11.mp3
+│   │   │   ├── 12.mp3
+│   │   │   ├── 13.mp3
+│   │   │   ├── 14.mp3
+│   │   │   ├── 1.mp3
+│   │   │   ├── 2.mp3
+│   │   │   ├── 3.mp3
+│   │   │   ├── 4.mp3
+│   │   │   ├── 5.mp3
+│   │   │   ├── 6.mp3
+│   │   │   ├── 7.mp3
+│   │   │   ├── 8.mp3
+│   │   │   ├── 9.mp3
+│   │   │   ├── FN08040000884_09.wav
+│   │   │   ├── FN16040044700_08.wav
+│   │   ├── fotografias
+│   │   ├── textiles
+│   │   ├── tseltaldelnorte
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── tseltaldeloccidente
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── tseltaldeloriente
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── tseltaldelsur
+│   │       ├── audios
+│   │       ├── fotografias
+│   │       └── textiles
+│   └── tsotsil
+│       ├── audios
+│       │   ├── 10.mp3
+│       │   ├── 11.mp3
+│       │   ├── 12.mp3
+│       │   ├── 1.mp3
+│       │   ├── 2.mp3
+│       │   ├── 3.mp3
+│       │   ├── 4.mp3
+│       │   ├── 5.mp3
+│       │   ├── 6.mp3
+│       │   ├── 7.mp3
+│       │   ├── 8.mp3
+│       │   ├── 9.mp3
+│       │   ├── FN08040000879_05.wav
+│       │   ├── FN08040000879_11.wav
+│       │   ├── FN08040000879_16.wav
+│       │   ├── FN08040010798_17.wav
+│       │   ├── FN16040041653_02.wav
+│       │   ├── FN16040041656_12.wav
+│       ├── fotografias
+│       ├── textiles
+│       ├── tsotsildelcentro
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── tsotsildelestealto
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── tsotsildelestebajo
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── tsotsildelnoroeste
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── tsotsildelnortealto
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── tsotsildelnortebajo
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       └── tsotsildelosaltos
+│           ├── audios
+│           ├── fotografias
+│           └── textiles
+├── mixezoque
+│   ├── audios
+│   ├── ayapaneco
+│   │   ├── audios
+│   │   ├── ayapaneco
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── fotografias
+│   │   └── textiles
+│   ├── fotografias
+│   ├── mixe
+│   │   ├── audios
+│   │   │   ├── FN08040010798_10.wav
+│   │   │   ├── FN08040010798_24.wav
+│   │   ├── fotografias
+│   │   ├── mixealtodelcentro
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixealtodelnorte
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixealtodelsur
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixebajo
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixemediodeleste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixemediodeloeste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── oluteco
+│   │   ├── audios
+│   │   ├── fotografias
+│   │   ├── oluteco
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── popolucadelasierra
+│   │   ├── audios
+│   │   ├── fotografias
+│   │   ├── popolucadelasierra
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── sayulteco
+│   │   ├── audios
+│   │   ├── fotografias
+│   │   ├── sayulteco
+│   │   │   ├── audios
+│   │   │   │   ├── FN08040000895_06.wav
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── texistepequeno
+│   │   ├── audios
+│   │   ├── fotografias
+│   │   ├── texistepequeno
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── textiles
+│   └── zoque
+│       ├── audios
+│       │   ├── 1FN16040041496.mp3
+│       │   ├── FN08040010798_13.wav
+│       │   ├── FN08040010798_25.wav
+│       ├── fotografias
+│       ├── textiles
+│       ├── zoquedelcentro
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zoquedeleste
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zoquedelnoroeste
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zoquedelnortealto
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zoquedelnortebajo
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zoquedeloeste
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zoquedelsur
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       └── zoquedelsureste
+│           ├── audios
+│           ├── fotografias
+│           └── textiles
+├── otomangue
+│   ├── amuzgo
+│   │   ├── amuzgoaltodeleste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── amuzgobajodeleste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── amuzgodelnorte
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── amuzgodelsur
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── audios
+│   │   │   ├── FN08010127002.mp3
+│   │   ├── fotografias
+│   │   └── textiles
+│   ├── audios
+│   ├── chatino
+│   │   ├── audios
+│   │   ├── chatinocentral
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── chatinodezacatepec
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── chatinooccidentalalto
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── chatinooccidentalbajo
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── chatinoorientalalto
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── chatinoorientalbajo
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── fotografias
+│   │   └── textiles
+│   ├── chichimecojonaz
+│   │   ├── audios
+│   │   ├── chichimecojonaz
+│   │   │   ├── audios
+│   │   │   │   ├── 10.mp3
+│   │   │   │   ├── 11.mp3
+│   │   │   │   ├── 12.mp3
+│   │   │   │   ├── 13.mp3
+│   │   │   │   ├── 14.mp3
+│   │   │   │   ├── 1.mp3
+│   │   │   │   ├── 2.mp3
+│   │   │   │   ├── 3.mp3
+│   │   │   │   ├── 4.mp3
+│   │   │   │   ├── 5.mp3
+│   │   │   │   ├── 6.mp3
+│   │   │   │   ├── 7.mp3
+│   │   │   │   ├── 8.mp3
+│   │   │   │   ├── 9.mp3
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── fotografias
+│   │   └── textiles
+│   ├── chinanteco
+│   │   ├── audios
+│   │   │   ├── FN08010128811.mp3
+│   │   │   ├── FN08040010855_01.wav
+│   │   ├── chianatecodeloestecentralbajo
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── chinantecocentral
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── chinantecocentralbajo
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── chinantecodelasierra
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── chinantecodelnoroeste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── chinantecodelnorte
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── chinantecodeloeste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── chinantecodeloestecentralalto
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── chinantecodelsurestealto
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── chinantecodelsurestebajo
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── chinantecodelsurestemedio
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── fotografias
+│   │   └── textiles
+│   ├── chocholteco
+│   │   ├── audios
+│   │   ├── chocholtecodeleste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── chocholtecodeloeste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── chocholtecodelsur
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── fotografias
+│   │   └── textiles
+│   ├── cuicateco
+│   │   ├── audios
+│   │   ├── cuicatecodelcentro
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── cuicatecodelnorte
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── cuicatecodeloriente
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── fotografias
+│   │   └── textiles
+│   ├── fotografias
+│   ├── ixcateco
+│   │   ├── audios
+│   │   ├── fotografias
+│   │   ├── ixcateco
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── matlatzinca
+│   │   ├── audios
+│   │   ├── fotografias
+│   │   ├── matlatzinca
+│   │   │   ├── audios
+│   │   │   │   ├── 10.mp3
+│   │   │   │   ├── 11.mp3
+│   │   │   │   ├── 12.mp3
+│   │   │   │   ├── 13.mp3
+│   │   │   │   ├── 1.mp3
+│   │   │   │   ├── 2.mp3
+│   │   │   │   ├── 3.mp3
+│   │   │   │   ├── 4.mp3
+│   │   │   │   ├── 5.mp3
+│   │   │   │   ├── 6.mp3
+│   │   │   │   ├── 7.mp3
+│   │   │   │   ├── 8.mp3
+│   │   │   │   ├── 9.mp3
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── mazahua
+│   │   ├── audios
+│   │   │   ├── FN18060088692_01.wav
+│   │   ├── fotografias
+│   │   ├── mazahuadeoccidente
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mazahuadeoriente
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── mazateco
+│   │   ├── audios
+│   │   │   ├── FN08040010795_09.wav
+│   │   ├── fotografias
+│   │   ├── mazatecodeacatepec
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mazatecodeeloxochitlan
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mazatecodehuehuetlan
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mazatecodelapresaalto
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mazatecodelapresabajo
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mazatecodelcentro
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mazatecodelestebajo
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mazatecodelnoreste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mazatecodelnorte
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mazatecodeloeste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mazatecodelsur
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mazatecodelsureste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mazatecodelsuroeste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mazatecodeocopetatillo
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mazatecodepuebla
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mazatecodetecoatl
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── mixteco
+│   │   ├── audios
+│   │   │   ├── 10.mp3
+│   │   │   ├── 11.mp3
+│   │   │   ├── 12.mp3
+│   │   │   ├── 1.mp3
+│   │   │   ├── 2.mp3
+│   │   │   ├── 3.mp3
+│   │   │   ├── 4.mp3
+│   │   │   ├── 5.mp3
+│   │   │   ├── 6.mp3
+│   │   │   ├── 7.mp3
+│   │   │   ├── 8.mp3
+│   │   │   ├── 9.mp3
+│   │   │   ├── FN18040053861_04.wav
+│   │   │   ├── FN18040053872_01.wav
+│   │   ├── fotografias
+│   │   ├── mixtecoaltodevalles
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecobajodevalles
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecocentral
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecocentraldeguerrero
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodeatlamajalcingo
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodeayutla
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodecanadabajo
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodecanadacentral
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodechochoapa
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodecoapanatoyac
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodecoatzospam
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodeguerrerocentralalto
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodeguerrerodelacostacentral
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodeguerrerodelacostaeste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodeguerrerodelacostaoccidental
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodeguerrerodelestemedio
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodeguerrerodelnorestecentral
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodeguerrerodelnorte
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodeguerrerodelnortecentral
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodeigualapa
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodeixtayutla
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodelafronterapueblaoaxaca
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodeleste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodelestecentral
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodelnoreste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodelnorestebajo
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodelnoroeste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodelnoroestecentralalto
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodelnoroestecentralbajo
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodelnoroestemedio
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodelnortebajo
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodeloeste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodeloestealto
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodeloestedelacosta
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodelsurbajo
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodelsurestecentral
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodelsurmedio
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodelsuroeste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodelsuroestecentral
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodelsuroestedepuebla
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodemitlatongo
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodenumi
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodeoaxacadecostacentralbaja
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodeoaxacadelacostacentral
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodeoaxacadelacostanoroeste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodeoaxacadelacostaoestecentral
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodeoestecentral
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodesanagustintlacotepec
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodesanantoniohuitepec
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodesanantoniosinicahua
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodesanjuantamazola
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodesanjuanteita
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodesanluisacatlan
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodesanmateopenasco
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodesanmiguelpiedras
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodesanpablotijaltepec
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodesanpedromolinos
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodesanpedrotida
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodesantacruzitundujia
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodesantainesdezaragoza
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodesantaluciamonteverde
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodesantamariahuazolotitlan
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodesantamariapenoles
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodesantamariayosoyua
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodesantiagoamoltepec
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodesantodomingotonal
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodesierrasurnoroeste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodesierrasuroeste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodetlacoachistlahuaca
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodetlahuapa
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodetlalixtaquillademaldonado
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodetlaltempan
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodevilladetututepec
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodexochapa
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodexochistlahuaca
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodexonacatlan
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodeyosondua
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodeyosonotu
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodeyutanduchideguerrero
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodezapotitlan
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── mixtecodezoyatlandejuarez
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── otomi
+│   │   ├── audios
+│   │   │   ├── 10.mp3
+│   │   │   ├── 11.mp3
+│   │   │   ├── 12.mp3
+│   │   │   ├── 13.mp3
+│   │   │   ├── 14.mp3
+│   │   │   ├── 15.mp3
+│   │   │   ├── 1.mp3
+│   │   │   ├── 2.mp3
+│   │   │   ├── 3.mp3
+│   │   │   ├── 4.mp3
+│   │   │   ├── 5.mp3
+│   │   │   ├── 6.mp3
+│   │   │   ├── 7.mp3
+│   │   │   ├── 8.mp3
+│   │   │   ├── 9.mp3
+│   │   │   ├── FN18040053843_10.wav
+│   │   │   ├── FN18040053843_18.wav
+│   │   │   ├── FN18040053843_19.wav
+│   │   ├── fotografias
+│   │   ├── otomibajodelnoroeste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── otomideixtenco
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── otomidelasierra
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── otomidelcentro
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── otomidelnoroeste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── otomideloeste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── otomideloestedelvalledelmezquital
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── otomidelvalledelmezquital
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── otomidetilapaodelsur
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── pame
+│   │   ├── audios
+│   │   │   ├── FN16040041496.mp3
+│   │   ├── fotografias
+│   │   ├── pamedelcentro
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── pamedelnorte
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── popoloca
+│   │   ├── audios
+│   │   │   ├── 10.mp3
+│   │   │   ├── 11.mp3
+│   │   │   ├── 12.mp3
+│   │   │   ├── 13.mp3
+│   │   │   ├── 14.mp3
+│   │   │   ├── 1.mp3
+│   │   │   ├── 2.mp3
+│   │   │   ├── 3.mp3
+│   │   │   ├── 4.mp3
+│   │   │   ├── 5.mp3
+│   │   │   ├── 6.mp3
+│   │   │   ├── 7.mp3
+│   │   │   ├── 8.mp3
+│   │   │   ├── 9.mp3
+│   │   ├── fotografias
+│   │   ├── popolocadelcentro
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── popolocadelnorte
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── popolocadelponiente
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── popolocadeoriente
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── textiles
+│   ├── tlahuica
+│   │   ├── audios
+│   │   ├── fotografias
+│   │   ├── textiles
+│   │   └── tlahuica
+│   │       ├── audios
+│   │       │   ├── FN08040000886_19.wav
+│   │       │   ├── FN18060088613_02.wav
+│   │       ├── fotografias
+│   │       └── textiles
+│   ├── tlapaneco
+│   │   ├── audios
+│   │   │   ├── 10.mp3
+│   │   │   ├── 11.mp3
+│   │   │   ├── 12.mp3
+│   │   │   ├── 13.mp3
+│   │   │   ├── 14.mp3
+│   │   │   ├── 1.mp3
+│   │   │   ├── 2.mp3
+│   │   │   ├── 3.mp3
+│   │   │   ├── 4.mp3
+│   │   │   ├── 5.mp3
+│   │   │   ├── 6.mp3
+│   │   │   ├── 7.mp3
+│   │   │   ├── 8.mp3
+│   │   │   ├── 9.mp3
+│   │   ├── fotografias
+│   │   ├── textiles
+│   │   ├── tlapanecocentralbajo
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── tlapanecodelcentro
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── tlapanecodeleste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── tlapanecodelnoroestealto
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── tlapanecodelnoroestebajo
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── tlapanecodelnorte
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── tlapanecodeloeste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── tlapanecodelsur
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── tlapanecodelsuroeste
+│   │       ├── audios
+│   │       ├── fotografias
+│   │       └── textiles
+│   ├── triqui
+│   │   ├── audios
+│   │   │   ├── 10.mp3
+│   │   │   ├── 11.mp3
+│   │   │   ├── 1.mp3
+│   │   │   ├── 2.mp3
+│   │   │   ├── 3.mp3
+│   │   │   ├── 4.mp3
+│   │   │   ├── 5.mp3
+│   │   │   ├── 6.mp3
+│   │   │   ├── 7.mp3
+│   │   │   ├── 8.mp3
+│   │   │   ├── 9.mp3
+│   │   │   ├── FN14040032935.mp3
+│   │   ├── fotografias
+│   │   ├── textiles
+│   │   ├── triquidelaalta
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── triquidelabaja
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── triquidelamedia
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── triquidesanjuancopala
+│   │       ├── audios
+│   │       ├── fotografias
+│   │       └── textiles
+│   └── zapoteco
+│       ├── audios
+│       │   ├── 10.mp3
+│       │   ├── 11.mp3
+│       │   ├── 12.mp3
+│       │   ├── 13.mp3
+│       │   ├── 14.mp3
+│       │   ├── 15.mp3
+│       │   ├── 1.mp3
+│       │   ├── 2.mp3
+│       │   ├── 3.mp3
+│       │   ├── 4.mp3
+│       │   ├── 5.mp3
+│       │   ├── 6.mp3
+│       │   ├── 7.mp3
+│       │   ├── 8.mp3
+│       │   ├── 9.mp3
+│       ├── fotografias
+│       ├── textiles
+│       ├── zapotecodeasunciontlacolulita
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodelacostacentral
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodelacostaeste
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodelacostanoreste
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodelacostaoeste
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodelamontanadelistmoalto
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodelamontanadelistmobajo
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodelaplaniciecostera
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodelasierrasurcentral
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodelasierrasurdelestebajo
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodelasierrasurdelnorte
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodelasierrasurdelsurestealto
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodelasierrasurdelsurestebajo
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodelasierrasurnoreste
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodelasierrasurnoroeste
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodelasierrasurnoroestealto
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodelasierrasurnoroestebajo
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodelasierrasurnoroestemedio
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodelasierrasuroestebajo
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodeloestedetuxtepec
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodemixtepec
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodepetapa
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodequiavicuzas
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodesanantoninoelalto
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodesanbaltazarchichicapam
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodesanbartoloyautepec
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodesanfelipetejalapam
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodesanmiguelaloapam
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodesantamariaquiegolani
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodesantamariatemaxcalapa
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodesantiagolaxopa
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodesantiagoyaveo
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodesanvicentecoatlan
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodesierrasurdelnorestealto
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodetexmelucan
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodevallesdelcentro
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodevallesdelcentrobajo
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodevallesdelestecentral
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodevallesdelestemedio
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodevallesdelnoreste
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodevallesdelnoroestebajo
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodevallesdelnoroestemedio
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodevallesdelnortecentral
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodevallesdeloestecentral
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodevallesdelsur
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodevallesdelsuroestecentral
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodevallesdelsuroestemedio
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodevallesdesuroestealto
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodevallesnoroeste
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodevallesnorte
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodevallesoeste
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecodezimatlandealvarez
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecoserranobajo
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecoserranodeleste
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecoserranodelnoroeste
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecoserranodelnoroestebajo
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecoserranodeloeste
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecoserranodeloestemedio
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecoserranodelsureste
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecoserranodelsurestealto
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── zapotecoserranodelsurestebajo
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       └── zapotecoserranodelsurestemedio
+│           ├── audios
+│           ├── fotografias
+│           └── textiles
+├── seri
+│   ├── audios
+│   ├── fotografias
+│   │   ├── Festival_seris_JPAP_3.jpg
+│   │   ├── Festival_seris_JPAP_4.jpg
+│   │   ├── Festival_seris_JPAP_7.jpg
+│   │   ├── Festival_seris_JPAP_8.jpg
+│   │   ├── Presentación libro_seri_EAAJ_1.jpg
+│   │   └── Presentación libro_seri_EAAJ_2.jpg
+│   ├── seri
+│   │   ├── audios
+│   │   ├── fotografias
+│   │   ├── seri
+│   │   │   ├── audios
+│   │   │   │   ├── FN08040000884_20.wav
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── textiles
+│   └── textiles
+├── tarasca
+│   ├── audios
+│   ├── fotografias
+│   ├── tarasco
+│   │   ├── audios
+│   │   ├── fotografias
+│   │   ├── pue‚pecha
+│   │   │   ├── audios
+│   │   │   │   ├── 10.mp3
+│   │   │   │   ├── 11.mp3
+│   │   │   │   ├── 12.mp3
+│   │   │   │   ├── 13.mp3
+│   │   │   │   ├── 14.mp3
+│   │   │   │   ├── 1.mp3
+│   │   │   │   ├── 2.mp3
+│   │   │   │   ├── 3.mp3
+│   │   │   │   ├── 4.mp3
+│   │   │   │   ├── 5.mp3
+│   │   │   │   ├── 6.mp3
+│   │   │   │   ├── 7.mp3
+│   │   │   │   ├── 8.mp3
+│   │   │   │   ├── 9.mp3
+│   │   │   ├── fotografias
+│   │   │   │   ├── Paisaje lingüístico_purepecha_LIARM_3.jpg
+│   │   │   │   ├── Paisaje lingüístico_purepecha_LIARM_7.jpg
+│   │   │   │   ├── Paisaje y casas_purepecha_AEO_1.jpg
+│   │   │   │   └── Paisaje y casas_purepecha_AEO_3.jpg
+│   │   │   └── textiles
+│   │   └── textiles
+│   └── textiles
+├── totonacotepehua
+│   ├── audios
+│   ├── fotografias
+│   ├── tepehua
+│   │   ├── audios
+│   │   ├── fotografias
+│   │   ├── tepehuadelnorte
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── tepehuadeloeste
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   ├── tepehuadelsur
+│   │   │   ├── audios
+│   │   │   ├── fotografias
+│   │   │   └── textiles
+│   │   └── textiles
+│   ├── textiles
+│   └── totonaco
+│       ├── audios
+│       │   ├── FN18060088692_03.wav
+│       ├── fotografias
+│       ├── textiles
+│       ├── totonacocentralalto
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── totonacocentraldelnorte
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── totonacocentraldelsur
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── totonacodelacosta
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── totonacodelcerroxinolatepetl
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       ├── totonacodelrionecaxa
+│       │   ├── audios
+│       │   ├── fotografias
+│       │   └── textiles
+│       └── totonacodelsureste
+│           ├── audios
+│           ├── fotografias
+│           └── textiles
+└── yutonahua
+    ├── cora
+    │   ├── audios
+    │   ├── coracorapeno
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── coradedolores
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── coradejesusmaria
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── coraderosarito
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   │   ├── La judea Cora_cora de Rosarito_EAAJ (46) copia.jpg
+    │   │   │   ├── La judea Cora_cora de Rosarito_EAAJ (50) copia.jpg
+    │   │   │   ├── La judea Cora_cora de Rosarito_EAAJ (53) copia.jpg
+    │   │   └── textiles
+    │   ├── corafrancisqueno
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── corameseno
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── corapresideno
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── coratereseno
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── fotografias
+    │   │   └── Retrato_Cora_AEM_20121.jpg
+    │   └── textiles
+    ├── guarijio
+    │   ├── audios
+    │   ├── fotografias
+    │   ├── guarijiodelnorte
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── guarijiodelsur
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   └── textiles
+    ├── huichol
+    │   ├── audios
+    │   ├── fotografias
+    │   │   └── Wixarikas en Jalisco_JPAP (4) copia.jpg
+    │   ├── huicholdeleste
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   │   ├── Atuento_huichol del este_AEO_2.jpg
+    │   │   │   ├── Loteria_huichol_del_este_EAAJ_3.jpg
+    │   │   │   ├── Migrantes en Jalisco_huichole del este_JPAP_3.jpg
+    │   │   │   ├── Migrantes en Jalisco_huichole del este_JPAP_6.jpg
+    │   │   │   └── Migrantes en Jalisco_huichole del este_JPAP_7.jpg
+    │   │   └── textiles
+    │   ├── huicholdelnorte
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── huicholdeloeste
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── huicholdelsur
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   └── textiles
+    ├── mayo
+    │   ├── audios
+    │   │   ├── FN16040041653_21.wav
+    │   │   ├── FN16040041653_26.wav
+    │   │   ├── FN16040041653_27.wav
+    │   ├── fotografias
+    │   ├── mayo
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   │   ├── Mayos_mayo_JPAP (1).jpg
+    │   │   │   ├── Mayos_mayo_JPAP (5).JPG
+    │   │   │   ├── Mayos_mayo_JPAP (7).JPG
+    │   │   └── textiles
+    │   └── textiles
+    ├── nahuatl
+    │   ├── audios
+    │   │   ├── FN18060088620_16.wav
+    │   │   ├── FN18070010590_09.wav
+    │   ├── fotografias
+    │   ├── mexicanoaltodeoccidente
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── mexicanobajodeoccidente
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── mexicanocentralbajo
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── mexicanocentraldeoccidente
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── mexicanodeguerrero
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── mexicanodelahuastecahidalguense
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── mexicanodelcentro
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── mexicanodelcentroalto
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── mexicanodelcentrobajo
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── mexicanodelnoroeste
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── mexicanodeloriente
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── mexicanodelorientecentral
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── mexicanodelorientedepuebla
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── mexicanodeoccidente
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── mexicanodepuentedeixtla
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── mexicanodetemixco
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── mexicanodeteteladelvolcan
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── nahuatlaltodelnortedepuebla
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── nahuatlcentraldeveracruz
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   │   ├── Vestimenta tradicional_nahuatl (central de Veracuz)_JPAP_2.jpg
+    │   │   │   └── Vestimenta tradicional_nahuatl (central de Veracuz)_JPAP_3.jpg
+    │   │   └── textiles
+    │   ├── nahuatldelahuastecapotosina
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── nahuatldelahuastecaveracruzana
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   │   ├── El_Costumbre_nahuatl de la Huasteca veracruzana_EAAJ_11.jpg
+    │   │   │   ├── Mercado_nahuatl de la Huasteca veracruzana_EAAJ_11.jpg
+    │   │   └── textiles
+    │   ├── nahuatldelasierranegranorte
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── nahuatldelasierranegrasur
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── nahuatldelasierranorestedepuebla
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── nahuatldelasierraoestedepuebla
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── nahuatldelcentrodepuebla
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── nahuatldelistmo
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── nahuatldelistmobajo
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── nahuatldelnoroestecentral
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── nahuatldeoaxaca
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   └── textiles
+    ├── papago
+    │   ├── audios
+    │   ├── fotografias
+    │   ├── papago
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   └── textiles
+    ├── pima
+    │   ├── audios
+    │   │   ├── FN16040044800_14.wav
+    │   ├── fotografias
+    │   ├── pimadeleste
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── pimadelnorte
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── pimadelsur
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   └── textiles
+    ├── tarahumara
+    │   ├── audios
+    │   │   ├── 10.mp3
+    │   │   ├── 11.mp3
+    │   │   ├── 12.mp3
+    │   │   ├── 13.mp3
+    │   │   ├── 14.mp3
+    │   │   ├── 1.mp3
+    │   │   ├── 2.mp3
+    │   │   ├── 3.mp3
+    │   │   ├── 4.mp3
+    │   │   ├── 5.mp3
+    │   │   ├── 6.mp3
+    │   │   ├── 7.mp3
+    │   │   ├── 8.mp3
+    │   │   ├── 9.mp3
+    │   ├── tarahumaradecumbres
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── tarahumaradelcentro
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── tarahumaradelnorte
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── tarahumaradeloeste
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── tarahumaradelsur
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   └── textiles
+    ├── tepehuanodelnorte
+    │   ├── audios
+    │   ├── fotografias
+    │   ├── tepehuanodelnorte
+    │   │   ├── audios
+    │   │   │   ├── 10.mp3
+    │   │   │   ├── 11.mp3
+    │   │   │   ├── 12.mp3
+    │   │   │   ├── 13.mp3
+    │   │   │   ├── 1.mp3
+    │   │   │   ├── 2.mp3
+    │   │   │   ├── 3.mp3
+    │   │   │   ├── 4.mp3
+    │   │   │   ├── 5.mp3
+    │   │   │   ├── 6.mp3
+    │   │   │   ├── 7.mp3
+    │   │   │   ├── 8.mp3
+    │   │   │   ├── 9.mp3
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   └── textiles
+    ├── tepehuanodelsur
+    │   ├── audios
+    │   │   ├── FN08040000884_06.wav
+    │   │   ├── FN18060088674_04.wav
+    │   │   ├── FN18060088674_08.wav
+    │   │   ├── FN18060088674_16.wav
+    │   │   ├── FN18060088674_19.wav
+    │   ├── fotografias
+    │   │   ├── Músicos_tepehuanosdelsur alto_AEO_2.jpg
+    │   │   └── Músicos_tepehuanosdelsur alto_AEO_5.jpg
+    │   ├── tepehuanodelsuralto
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── tepehuanodelsurbajo
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   ├── tepehuanodelsurcentral
+    │   │   ├── audios
+    │   │   ├── fotografias
+    │   │   └── textiles
+    │   └── textiles
+    └── yaqui
+        ├── audios
+        ├── fotografias
+        ├── textiles
+        └── yaqui
+            ├── audios
+            │   ├── FN16040044917_02.wav
+            ├── fotografias
+            └── textiles
+
+1768 directories, 1619 files

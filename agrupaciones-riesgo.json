@@ -1,0 +1,340 @@
+[{
+  "id": "awakateko",
+  "nombre": "Awakateko",
+  "riesgo": 3,
+  "habitantes": 17
+}, {
+  "id": "ayapaneco",
+  "nombre": "Ayapaneco",
+  "riesgo": 3,
+  "habitantes": 24
+}, {
+  "id": "kaqchikel",
+  "nombre": "Kaqchikel",
+  "riesgo": 3,
+  "habitantes": 61
+}, {
+  "id": "teko",
+  "nombre": "Teko",
+  "riesgo": 3,
+  "habitantes": 81
+}, {
+  "id": "oluteco",
+  "nombre": "Oluteco",
+  "riesgo": 3,
+  "habitantes": 90
+}, {
+  "id": "papago",
+  "nombre": "Pápago",
+  "riesgo": 3,
+  "habitantes": 112
+}, {
+  "id": "kickapoo",
+  "nombre": "Kickapoo",
+  "riesgo": 3,
+  "habitantes": 124
+}, {
+  "id": "ixcateco",
+  "nombre": "Ixcateco",
+  "riesgo": 3,
+  "habitantes": 148
+}, {
+  "id": "kiliwa",
+  "nombre": "Kiliwa",
+  "riesgo": 3,
+  "habitantes": 194
+}, {
+  "id": "paipai",
+  "nombre": "Paipai",
+  "riesgo": 3,
+  "habitantes": 216
+}, {
+  "id": "cucapa",
+  "nombre": "Cucapá",
+  "riesgo": 3,
+  "habitantes": 278
+}, {
+  "id": "texistepequeno",
+  "nombre": "Texistepequeño",
+  "riesgo": 3,
+  "habitantes": 455
+}, {
+  "id": "kumiai",
+  "nombre": "Kumiai",
+  "riesgo": 3,
+  "habitantes": 486
+}, {
+  "id": "jakalteko",
+  "nombre": "Jakalteko",
+  "riesgo": 3,
+  "habitantes": 527
+}, {
+  "id": "tlahuica",
+  "nombre": "Tlahuica",
+  "riesgo": 3,
+  "habitantes": 1548
+}, {
+  "id": "kuahl",
+  "nombre": "Ku’ahl",
+  "riesgo": 3
+}, {
+  "id": "seri",
+  "nombre": "Seri",
+  "riesgo": 2,
+  "habitantes": 754
+}, {
+  "id": "matlatzinca",
+  "nombre": "Matlatzinca",
+  "riesgo": 2,
+  "habitantes": 1568
+}, {
+  "id": "mayo",
+  "nombre": "Mayo",
+  "riesgo": 2,
+  "habitantes": 42601
+}, {
+  "id": "ixil",
+  "nombre": "Ixil",
+  "riesgo": 3,
+  "habitantes": 103
+}, {
+  "id": "qatok",
+  "nombre": "Qato’k",
+  "riesgo": 3,
+  "habitantes": 134
+}, {
+  "id": "kiche",
+  "nombre": "K’iche’",
+  "riesgo": 3,
+  "habitantes": 730
+}, {
+  "id": "chocholteco",
+  "nombre": "Chocholteco",
+  "riesgo": 3,
+  "habitantes": 729
+}, {
+  "id": "chontaldeoaxaca",
+  "nombre": "Chontal de Oaxaca",
+  "riesgo": 3,
+  "habitantes": 5064
+}, {
+  "id": "pima",
+  "nombre": "Pima",
+  "riesgo": 3,
+  "habitantes": 743
+}, {
+  "id": "mam",
+  "nombre": "Mam",
+  "riesgo": 3,
+  "habitantes": 11387
+}, {
+  "id": "pame",
+  "nombre": "Pame",
+  "riesgo": 2,
+  "habitantes": 12232
+}, {
+  "id": "chontaldetabasco",
+  "nombre": "Chontal de Tabasco",
+  "riesgo": 1,
+  "habitantes": 27666
+}, {
+  "id": "popoloca",
+  "nombre": "Popoloca",
+  "riesgo": 3,
+  "habitantes": 18206
+}, {
+  "id": "otomi",
+  "nombre": "Otomí",
+  "riesgo": 2,
+  "habitantes": 307928
+}, {
+  "id": "zoque",
+  "nombre": "Zoque",
+  "riesgo": 1,
+  "habitantes": 68157
+}, {
+  "id": "tlapaneco",
+  "nombre": "Tlapaneco",
+  "riesgo": 1,
+  "habitantes": 134148
+}, {
+  "id": "totonaco",
+  "nombre": "Totonaco",
+  "riesgo": 1,
+  "habitantes": 267635
+}, {
+  "id": "huichol",
+  "nombre": "Huichol",
+  "riesgo": 1,
+  "habitantes": 52483
+}, {
+  "id": "mixteco",
+  "nombre": "Mixteco",
+  "riesgo": 1,
+  "habitantes": 517665
+}, {
+  "id": "nahuatl",
+  "nombre": "Náhuatl",
+  "riesgo": 1,
+  "habitantes": 1725620
+}, {
+  "id": "zapoteco",
+  "nombre": "Zapoteco",
+  "riesgo": 1,
+  "habitantes": 479474
+}, {
+  "id": "tepehua",
+  "nombre": "Tepehua",
+  "riesgo": 1,
+  "habitantes": 10427
+}, {
+  "id": "chatino",
+  "nombre": "Chatino",
+  "riesgo": 1,
+  "habitantes": 51612
+}, {
+  "id": "mazateco",
+  "nombre": "Mazateco",
+  "riesgo": 0,
+  "habitantes": 239078
+}, {
+  "id": "huasteco",
+  "nombre": "Huasteco",
+  "riesgo": 1,
+  "habitantes": 173765
+}, {
+  "id": "chinanteco",
+  "nombre": "Chinanteco",
+  "riesgo": 0,
+  "habitantes": 138741
+}, {
+  "id": "huave",
+  "nombre": "Huave",
+  "riesgo": 1,
+  "habitantes": 18539
+}, {
+  "id": "tepehuanodelsur",
+  "nombre": "Tepehuano del sur",
+  "riesgo": 1,
+  "habitantes": 36543
+}, {
+  "id": "amuzgo",
+  "nombre": "Amuzgo",
+  "riesgo": 1,
+  "habitantes": 57589
+}, {
+  "id": "tarahumara",
+  "nombre": "Tarahumara",
+  "riesgo": 1,
+  "habitantes": 73856
+}, {
+  "id": "akateko",
+  "nombre": "Akateko",
+  "riesgo": 1,
+  "habitantes": 2837
+}, {
+  "id": "lacandon",
+  "nombre": "Lacandón",
+  "riesgo": 1,
+  "habitantes": 998
+}, {
+  "id": "maya",
+  "nombre": "Maya",
+  "riesgo": 1,
+  "habitantes": 859607
+}, {
+  "id": "qeqchi",
+  "nombre": "Q’eqchi’",
+  "riesgo": 1,
+  "habitantes": 1324
+}, {
+  "id": "sayulteco",
+  "nombre": "Sayulteco",
+  "riesgo": 1,
+  "habitantes": 4117
+}, {
+  "id": "yaqui",
+  "nombre": "Yaqui",
+  "riesgo": 1,
+  "habitantes": 20340
+}, {
+  "id": "mazahua",
+  "nombre": "Mazahua",
+  "riesgo": 1,
+  "habitantes": 147088
+}, {
+  "id": "guarijio",
+  "nombre": "Guarijío",
+  "riesgo": 1,
+  "habitantes": 2088
+}, {
+  "id": "cuicateco",
+  "nombre": "Cuicateco",
+  "riesgo": 1,
+  "habitantes": 13318
+}, {
+  "id": "cora",
+  "nombre": "Cora",
+  "riesgo": 1,
+  "habitantes": 28718
+}, {
+  "id": "chuj",
+  "nombre": "Chuj",
+  "riesgo": 0,
+  "habitantes": 2890
+}, {
+  "id": "qanjobal",
+  "nombre": "Q’anjob’al",
+  "riesgo": 0,
+  "habitantes": 8421
+}, {
+  "id": "tojolabal",
+  "nombre": "Tojolabal",
+  "riesgo": 0,
+  "habitantes": 55442
+}, {
+  "id": "popolucadelasierra",
+  "nombre": "Popoluca de la Sierra",
+  "riesgo": 0,
+  "habitantes": 37707
+}, {
+  "id": "chichimecojonaz",
+  "nombre": "Chichimeco jonaz",
+  "riesgo": 0,
+  "habitantes": 2134
+}, {
+  "id": "tarasco",
+  "nombre": "Tarasco",
+  "riesgo": 0,
+  "habitantes": 141177
+}, {
+  "id": "tepehuanodelnorte",
+  "nombre": "Tepehuano del norte",
+  "riesgo": 0,
+  "habitantes": 9568
+}, {
+  "id": "triqui",
+  "nombre": "Ch’ol",
+  "riesgo": 0,
+  "habitantes": 251809
+}, {
+  "id": "chol",
+  "nombre": "Tseltal",
+  "riesgo": 0,
+  "habitantes": 556720
+}, {
+  "id": "tseltal",
+  "nombre": "Triqui",
+  "riesgo": 0,
+  "habitantes": 25674
+}, {
+  "id": "tsotsil",
+  "nombre": "Mixe",
+  "riesgo": 0,
+  "habitantes": 133632
+}, {
+  "id": "mixe",
+  "nombre": "Tsotsil",
+  "riesgo": 0,
+  "habitantes": 487898
+}]

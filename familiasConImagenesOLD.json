@@ -1,0 +1,102 @@
+[{
+  "id": "algica",
+  "fotografias": []
+}, {
+  "id": "yutonahua",
+  "fotografias": [{
+    "id": "inali/imagenes/yutonahua/fotografias/yutonahua-0_imagen",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571350369/inali/imagenes/yutonahua/fotografias/yutonahua-0_imagen.jpg",
+    "nombreArchivo": {
+      "ID": "Carnaval_San_Juan_mexicano_de_guerrero_EAAJ.jpg",
+      "creditos": "Carnaval de San Juan",
+      "propiedad": "Acervo de Lenguas Indígenas Nacional (ALIN)"
+    },
+    "creditos": "Carnaval de San Juan",
+    "propiedad": "Acervo de Lenguas Indígenas Nacional (ALIN)"
+  }, {
+    "id": "inali/imagenes/yutonahua/fotografias/yutonahua-1_imagen",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571350369/inali/imagenes/yutonahua/fotografias/yutonahua-1_imagen.jpg",
+    "nombreArchivo": {
+      "ID": "Día de muertos_mexicano_de_guerrero_EAAJ1.jpg",
+      "creditos": "Día de muertos",
+      "propiedad": "Acervo de Lenguas Indígenas Nacional (ALIN)"
+    },
+    "creditos": "Día de muertos",
+    "propiedad": "Acervo de Lenguas Indígenas Nacional (ALIN)"
+  }]
+}, {
+  "id": "cochimiyumana",
+  "fotografias": []
+}, {
+  "id": "seri",
+  "fotografias": [{
+    "id": "inali/imagenes/seri/fotografias/seri-5_imagen",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571350367/inali/imagenes/seri/fotografias/seri-5_imagen.jpg",
+    "nombreArchivo": {
+      "ID": "Presentación libro_seri_EAAJ_2.jpg",
+      "creditos": "JPAP"
+    },
+    "creditos": "JPAP"
+  }, {
+    "id": "inali/imagenes/seri/fotografias/seri-4_imagen",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571350367/inali/imagenes/seri/fotografias/seri-4_imagen.jpg",
+    "nombreArchivo": {
+      "ID": "Presentación libro_seri_EAAJ_1.jpg",
+      "creditos": "JPAP"
+    },
+    "creditos": "JPAP"
+  }, {
+    "id": "inali/imagenes/seri/fotografias/seri-3_imagen",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571350369/inali/imagenes/seri/fotografias/seri-3_imagen.jpg",
+    "nombreArchivo": {
+      "ID": "Festival_seris_JPAP_8.jpg",
+      "creditos": "JPAP"
+    },
+    "creditos": "JPAP"
+  }, {
+    "id": "inali/imagenes/seri/fotografias/seri-1_imagen",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571350369/inali/imagenes/seri/fotografias/seri-1_imagen.jpg",
+    "nombreArchivo": {
+      "ID": "Festival_seris_JPAP_4.jpg",
+      "creditos": "JPAP"
+    },
+    "creditos": "JPAP"
+  }, {
+    "id": "inali/imagenes/seri/fotografias/seri-2_imagen",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571350369/inali/imagenes/seri/fotografias/seri-2_imagen.jpg",
+    "nombreArchivo": {
+      "ID": "Festival_seris_JPAP_7.jpg",
+      "creditos": "JPAP"
+    },
+    "creditos": "JPAP"
+  }, {
+    "id": "inali/imagenes/seri/fotografias/seri-0_imagen",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571350370/inali/imagenes/seri/fotografias/seri-0_imagen.jpg",
+    "nombreArchivo": {
+      "ID": "Festival_seris_JPAP_3.jpg",
+      "creditos": "JPAP"
+    },
+    "creditos": "JPAP"
+  }]
+}, {
+  "id": "otomangue",
+  "fotografias": []
+}, {
+  "id": "maya",
+  "fotografias": []
+}, {
+  "id": "totonacotepehua",
+  "fotografias": []
+}, {
+  "id": "tarasca",
+  "fotografias": []
+}, {
+  "id": "mixezoque",
+  "fotografias": []
+}, {
+  "id": "chontaldeoaxaca",
+  "fotografias": []
+}, {
+  "id": "huave",
+  "fotografias": []
+}]

@@ -1,0 +1,267 @@
+[{
+  "id": "kickapoo",
+  "fotografias": []
+}, {
+  "id": "papago",
+  "fotografias": []
+}, {
+  "id": "pima",
+  "fotografias": []
+}, {
+  "id": "tepehuanodelnorte",
+  "fotografias": []
+}, {
+  "id": "tepehuanodelsur",
+  "fotografias": [{
+    "id": "inali/imagenes/yutonahua/tepehuanodelsur/fotografias/tepehuanodelsur-0_imagen",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571352777/inali/imagenes/yutonahua/tepehuanodelsur/fotografias/tepehuanodelsur-0_imagen.jpg",
+    "nombreArchivo": {
+      "ID": "Músicos_tepehuanosdelsur alto_AEO_2.jpg",
+      "creditos": "AEO"
+    },
+    "creditos": "AEO"
+  }, {
+    "id": "inali/imagenes/yutonahua/tepehuanodelsur/fotografias/tepehuanodelsur-1_imagen",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571352777/inali/imagenes/yutonahua/tepehuanodelsur/fotografias/tepehuanodelsur-1_imagen.jpg",
+    "nombreArchivo": {
+      "ID": "Músicos_tepehuanosdelsur alto_AEO_5.jpg",
+      "creditos": "AEO"
+    },
+    "creditos": "AEO"
+  }]
+}, {
+  "id": "tarahumara",
+  "fotografias": [{
+    "id": "inali/imagenes/yutonahua/tarahumara/fotografias/tarahumara-1_imagen",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571352779/inali/imagenes/yutonahua/tarahumara/fotografias/tarahumara-1_imagen.jpg",
+    "nombreArchivo": {
+      "ID": "Festejo_tarahumara_EAAJ_27.jpg",
+      "creditos": "Festejo 3",
+      "propiedad": "Acervo de Lenguas Indígenas Nacional (ALIN)"
+    },
+    "creditos": "Festejo 3",
+    "propiedad": "Acervo de Lenguas Indígenas Nacional (ALIN)"
+  }, {
+    "id": "inali/imagenes/yutonahua/tarahumara/fotografias/tarahumara-0_imagen",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571352779/inali/imagenes/yutonahua/tarahumara/fotografias/tarahumara-0_imagen.jpg",
+    "nombreArchivo": {
+      "ID": "Festejo_tarahumara_EAAJ_15.jpg",
+      "creditos": "Festejo 2",
+      "propiedad": "Acervo de Lenguas Indígenas Nacional (ALIN)"
+    },
+    "creditos": "Festejo 2",
+    "propiedad": "Acervo de Lenguas Indígenas Nacional (ALIN)"
+  }, {
+    "id": "inali/imagenes/yutonahua/tarahumara/fotografias/tarahumara-2_imagen",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571352779/inali/imagenes/yutonahua/tarahumara/fotografias/tarahumara-2_imagen.jpg",
+    "nombreArchivo": {
+      "ID": "Festejo_tarahumara_EAAJ_4.jpg",
+      "creditos": "Festejo 1",
+      "propiedad": "Acervo de Lenguas Indígenas Nacional (ALIN)"
+    },
+    "creditos": "Festejo 1",
+    "propiedad": "Acervo de Lenguas Indígenas Nacional (ALIN)"
+  }]
+}, {
+  "id": "guarijio",
+  "fotografias": []
+}, {
+  "id": "yaqui",
+  "fotografias": []
+}, {
+  "id": "mayo",
+  "fotografias": []
+}, {
+  "id": "cora",
+  "fotografias": [{
+    "id": "inali/imagenes/yutonahua/cora/fotografias/cora-0_imagen",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571352777/inali/imagenes/yutonahua/cora/fotografias/cora-0_imagen.jpg",
+    "nombreArchivo": {
+      "ID": "Retrato_Cora_AEM_20121.jpg",
+      "creditos": "AEM"
+    },
+    "creditos": "AEM"
+  }]
+}, {
+  "id": "huichol",
+  "fotografias": [{
+    "id": "inali/imagenes/yutonahua/huichol/fotografias/huichol-0_imagen",
+    "url": "http://res.cloudinary.com/centro-cultura-digital/image/upload/v1571352780/inali/imagenes/yutonahua/huichol/fotografias/huichol-0_imagen.jpg",
+    "nombreArchivo": {
+      "ID": "Wixarikas en Jalisco_JPAP (4) copia.jpg",
+      "creditos": "JPAP"
+    },
+    "creditos": "JPAP"
+  }]
+}, {
+  "id": "nahuatl",
+  "fotografias": []
+}, {
+  "id": "paipai",
+  "fotografias": []
+}, {
+  "id": "kuahl",
+  "fotografias": []
+}, {
+  "id": "cucapa",
+  "fotografias": []
+}, {
+  "id": "kumiai",
+  "fotografias": []
+}, {
+  "id": "kiliwa",
+  "fotografias": []
+}, {
+  "id": "seri",
+  "fotografias": []
+}, {
+  "id": "otomi",
+  "fotografias": []
+}, {
+  "id": "mazahua",
+  "fotografias": []
+}, {
+  "id": "matlatzinca",
+  "fotografias": []
+}, {
+  "id": "tlahuica",
+  "fotografias": []
+}, {
+  "id": "pame",
+  "fotografias": []
+}, {
+  "id": "chichimecojonaz",
+  "fotografias": []
+}, {
+  "id": "chinanteco",
+  "fotografias": []
+}, {
+  "id": "tlapaneco",
+  "fotografias": []
+}, {
+  "id": "mazateco",
+  "fotografias": []
+}, {
+  "id": "ixcateco",
+  "fotografias": []
+}, {
+  "id": "chocholteco",
+  "fotografias": []
+}, {
+  "id": "popoloca",
+  "fotografias": []
+}, {
+  "id": "zapoteco",
+  "fotografias": []
+}, {
+  "id": "chatino",
+  "fotografias": []
+}, {
+  "id": "amuzgo",
+  "fotografias": []
+}, {
+  "id": "mixteco",
+  "fotografias": []
+}, {
+  "id": "cuicateco",
+  "fotografias": []
+}, {
+  "id": "triqui",
+  "fotografias": []
+}, {
+  "id": "huasteco",
+  "fotografias": []
+}, {
+  "id": "maya",
+  "fotografias": []
+}, {
+  "id": "lacandon",
+  "fotografias": []
+}, {
+  "id": "chol",
+  "fotografias": []
+}, {
+  "id": "chontaldetabasco",
+  "fotografias": []
+}, {
+  "id": "tseltal",
+  "fotografias": []
+}, {
+  "id": "tsotsil",
+  "fotografias": []
+}, {
+  "id": "qanjobal",
+  "fotografias": []
+}, {
+  "id": "akateko",
+  "fotografias": []
+}, {
+  "id": "jakalteko",
+  "fotografias": []
+}, {
+  "id": "qatok",
+  "fotografias": []
+}, {
+  "id": "chuj",
+  "fotografias": []
+}, {
+  "id": "tojolabal",
+  "fotografias": []
+}, {
+  "id": "qeqchi",
+  "fotografias": []
+}, {
+  "id": "kiche",
+  "fotografias": []
+}, {
+  "id": "kaqchikel",
+  "fotografias": []
+}, {
+  "id": "teko",
+  "fotografias": []
+}, {
+  "id": "mam",
+  "fotografias": []
+}, {
+  "id": "awakateko",
+  "fotografias": []
+}, {
+  "id": "ixil",
+  "fotografias": []
+}, {
+  "id": "totonaco",
+  "fotografias": []
+}, {
+  "id": "tepehua",
+  "fotografias": []
+}, {
+  "id": "tarasco",
+  "fotografias": []
+}, {
+  "id": "mixe",
+  "fotografias": []
+}, {
+  "id": "sayulteco",
+  "fotografias": []
+}, {
+  "id": "oluteco",
+  "fotografias": []
+}, {
+  "id": "texistepequeno",
+  "fotografias": []
+}, {
+  "id": "ayapaneco",
+  "fotografias": []
+}, {
+  "id": "popolucadelasierra",
+  "fotografias": []
+}, {
+  "id": "zoque",
+  "fotografias": []
+}, {
+  "id": "chontaldeoaxaca",
+  "fotografias": []
+}, {
+  "id": "huave",
+  "fotografias": []
+}]
