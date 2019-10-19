@@ -4,16 +4,19 @@ const variantesGeo = jsonfile.readFileSync('./jsons-geo/variantes.json')
 // const variantesXls = jsonfile.readFileSync('./variantes-xls.json')
 const variantesImg = jsonfile.readFileSync('./variantesConImagenes.json')
 // const variantesAud = jsonfile.readFileSync('./variantesConAudios.json')
+// const variantesText = jsonfile.readFileSync('./variantesConTextiles.json')
 
-let variantes = variantesGeo.map(a => {
-  // variXls = variantesXls.find(fx => fx.id === a.id)
-  variImg = variantesImg.find(fi => fi.id === a.id)
+let variantes = variantesGeo.map(v => {
+  // variXls = variantesXls.find(fx => fx.id === v.id)
+  variImg = variantesImg.find(vi => vi.id === v.id)
+  variTxt = variantesText.find(vt => vt.id === v.id)
 
-  // variAud = variantesAud.find(fa => fa.id === a.id)
+  // variAud = variantesAud.find(fa => fa.id === v.id)
   varianteUnificada = {
-    ...a,
+    ...v,
     // ...variXls,
     ...variImg,
+    // ...variTxt,
     // ...variAud
   }
   let nombreMayuscula = varianteUnificada.NOM_VAR[0].toUpperCase() + varianteUnificada.NOM_VAR.substr(1)
