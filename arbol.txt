@@ -1,444 +1,443 @@
-lenguas/
-├── algica
-│   └── kickapoo
-│       └── kickapoo
-├── chontaldeoaxaca
-│   └── chontaldeoaxaca
-│       ├── chontaldeoaxacaalto
-│       ├── chontaldeoaxacabajo
-│       └── chontaldeoaxacadelacosta
-├── cochimiyumana
-│   ├── cucapa
-│   │   └── cucapa
-│   ├── kiliwa
-│   │   └── kiliwa
-│   ├── kuahl
-│   │   └── kuahl
-│   ├── kumiai
-│   │   └── kumiai
-│   └── paipai
-│       └── paipai
-├── huave
-│   └── huave
-│       ├── huavedeleste
-│       └── huavedeloeste
-├── maya
-│   ├── akateko
-│   │   └── akateko
-│   ├── awakateko
-│   │   └── awakateko
-│   ├── chol
-│   │   ├── choldelnoroeste
-│   │   └── choldelsureste
-│   ├── chontaldetabasco
-│   │   ├── chontaldetabascocentral
-│   │   ├── chontaldetabascodeleste
-│   │   ├── chontaldetabascodelnorte
-│   │   └── chontaldetabascodelsureste
-│   ├── chuj
-│   │   └── chuj
-│   ├── huasteco
-│   │   ├── huastecodelcentro
-│   │   ├── huastecodeloccidente
-│   │   └── huastecodeoriente
-│   ├── ixil
-│   │   ├── ixilchajuleno
-│   │   └── ixilnebajeno
-│   ├── jakalteko
-│   │   └── jakalteko
-│   ├── kaqchikel
-│   │   └── kaqchikel
-│   ├── kiche
-│   │   ├── kiche(central)
-│   │   ├── kiche(occidental)
-│   │   └── kiche(oriental)
-│   ├── lacandon
-│   │   └── lacandon
-│   ├── mam
-│   │   ├── mamdelafrontera
-│   │   ├── mamdelasierra
-│   │   ├── mamdelnorte
-│   │   ├── mamdelsoconusco
-│   │   └── mamdelsur
-│   ├── maya
-│   │   └── maya
-│   ├── qanjobal
-│   │   └── qanjobal
-│   ├── qatok
-│   │   ├── mocho
-│   │   └── tuzanteco
-│   ├── qeqchi
-│   │   └── qeqchi
-│   ├── teko
-│   │   └── teko
-│   ├── tojolabal
-│   │   └── tojolabal
-│   ├── tseltal
-│   │   ├── tseltaldelnorte
-│   │   ├── tseltaldeloccidente
-│   │   ├── tseltaldeloriente
-│   │   └── tseltaldelsur
-│   └── tsotsil
-│       ├── tsotsildelcentro
-│       ├── tsotsildelestealto
-│       ├── tsotsildelestebajo
-│       ├── tsotsildelnoroeste
-│       ├── tsotsildelnortealto
-│       ├── tsotsildelnortebajo
-│       └── tsotsildelosaltos
-├── mixezoque
-│   ├── ayapaneco
-│   │   └── ayapaneco
-│   ├── mixe
-│   │   ├── mixealtodelcentro
-│   │   ├── mixealtodelnorte
-│   │   ├── mixealtodelsur
-│   │   ├── mixebajo
-│   │   ├── mixemediodeleste
-│   │   └── mixemediodeloeste
-│   ├── oluteco
-│   │   └── oluteco
-│   ├── popolucadelasierra
-│   │   └── popolucadelasierra
-│   ├── sayulteco
-│   │   └── sayulteco
-│   ├── texistepequeno
-│   │   └── texistepequeno
-│   └── zoque
-│       ├── zoquedelcentro
-│       ├── zoquedeleste
-│       ├── zoquedelnoroeste
-│       ├── zoquedelnortealto
-│       ├── zoquedelnortebajo
-│       ├── zoquedeloeste
-│       ├── zoquedelsur
-│       └── zoquedelsureste
-├── otomangue
-│   ├── amuzgo
-│   │   ├── amuzgoaltodeleste
-│   │   ├── amuzgobajodeleste
-│   │   ├── amuzgodelnorte
-│   │   └── amuzgodelsur
-│   ├── chatino
-│   │   ├── chatinocentral
-│   │   ├── chatinodezacatepec
-│   │   ├── chatinooccidentalalto
-│   │   ├── chatinooccidentalbajo
-│   │   ├── chatinoorientalalto
-│   │   └── chatinoorientalbajo
-│   ├── chichimecojonaz
-│   │   └── chichimecojonaz
-│   ├── chinanteco
-│   │   ├── chianatecodeloestecentralbajo
-│   │   ├── chinantecocentral
-│   │   ├── chinantecocentralbajo
-│   │   ├── chinantecodelasierra
-│   │   ├── chinantecodelnoroeste
-│   │   ├── chinantecodelnorte
-│   │   ├── chinantecodeloeste
-│   │   ├── chinantecodeloestecentralalto
-│   │   ├── chinantecodelsurestealto
-│   │   ├── chinantecodelsurestebajo
-│   │   └── chinantecodelsurestemedio
-│   ├── chocholteco
-│   │   ├── chocholtecodeleste
-│   │   ├── chocholtecodeloeste
-│   │   └── chocholtecodelsur
-│   ├── cuicateco
-│   │   ├── cuicatecodelcentro
-│   │   ├── cuicatecodelnorte
-│   │   └── cuicatecodeloriente
-│   ├── ixcateco
-│   │   └── ixcateco
-│   ├── matlatzinca
-│   │   └── matlatzinca
-│   ├── mazahua
-│   │   ├── mazahuadeoccidente
-│   │   └── mazahuadeoriente
-│   ├── mazateco
-│   │   ├── mazatecodeacatepec
-│   │   ├── mazatecodeeloxochitlan
-│   │   ├── mazatecodehuehuetlan
-│   │   ├── mazatecodelapresaalto
-│   │   ├── mazatecodelapresabajo
-│   │   ├── mazatecodelcentro
-│   │   ├── mazatecodelestebajo
-│   │   ├── mazatecodelnoreste
-│   │   ├── mazatecodelnorte
-│   │   ├── mazatecodeloeste
-│   │   ├── mazatecodelsur
-│   │   ├── mazatecodelsureste
-│   │   ├── mazatecodelsuroeste
-│   │   ├── mazatecodeocopetatillo
-│   │   ├── mazatecodepuebla
-│   │   └── mazatecodetecoatl
-│   ├── mixteco
-│   │   ├── mixtecoaltodevalles
-│   │   ├── mixtecobajodevalles
-│   │   ├── mixtecocentral
-│   │   ├── mixtecocentraldeguerrero
-│   │   ├── mixtecodeatlamajalcingo
-│   │   ├── mixtecodeayutla
-│   │   ├── mixtecodecanadabajo
-│   │   ├── mixtecodecanadacentral
-│   │   ├── mixtecodechochoapa
-│   │   ├── mixtecodecoapanatoyac
-│   │   ├── mixtecodecoatzospam
-│   │   ├── mixtecodeguerrerocentralalto
-│   │   ├── mixtecodeguerrerodelacostacentral
-│   │   ├── mixtecodeguerrerodelacostaeste
-│   │   ├── mixtecodeguerrerodelacostaoccidental
-│   │   ├── mixtecodeguerrerodelestemedio
-│   │   ├── mixtecodeguerrerodelnorestecentral
-│   │   ├── mixtecodeguerrerodelnorte
-│   │   ├── mixtecodeguerrerodelnortecentral
-│   │   ├── mixtecodeigualapa
-│   │   ├── mixtecodeixtayutla
-│   │   ├── mixtecodelafronterapueblaoaxaca
-│   │   ├── mixtecodeleste
-│   │   ├── mixtecodelestecentral
-│   │   ├── mixtecodelnoreste
-│   │   ├── mixtecodelnorestebajo
-│   │   ├── mixtecodelnoroeste
-│   │   ├── mixtecodelnoroestecentralalto
-│   │   ├── mixtecodelnoroestecentralbajo
-│   │   ├── mixtecodelnoroestemedio
-│   │   ├── mixtecodelnortebajo
-│   │   ├── mixtecodeloeste
-│   │   ├── mixtecodeloestealto
-│   │   ├── mixtecodeloestedelacosta
-│   │   ├── mixtecodelsurbajo
-│   │   ├── mixtecodelsurestecentral
-│   │   ├── mixtecodelsurmedio
-│   │   ├── mixtecodelsuroeste
-│   │   ├── mixtecodelsuroestecentral
-│   │   ├── mixtecodelsuroestedepuebla
-│   │   ├── mixtecodemitlatongo
-│   │   ├── mixtecodenumi
-│   │   ├── mixtecodeoaxacadecostacentralbaja
-│   │   ├── mixtecodeoaxacadelacostacentral
-│   │   ├── mixtecodeoaxacadelacostanoroeste
-│   │   ├── mixtecodeoaxacadelacostaoestecentral
-│   │   ├── mixtecodeoestecentral
-│   │   ├── mixtecodesanagustintlacotepec
-│   │   ├── mixtecodesanantoniohuitepec
-│   │   ├── mixtecodesanantoniosinicahua
-│   │   ├── mixtecodesanjuantamazola
-│   │   ├── mixtecodesanjuanteita
-│   │   ├── mixtecodesanluisacatlan
-│   │   ├── mixtecodesanmateopenasco
-│   │   ├── mixtecodesanmiguelpiedras
-│   │   ├── mixtecodesanpablotijaltepec
-│   │   ├── mixtecodesanpedromolinos
-│   │   ├── mixtecodesanpedrotida
-│   │   ├── mixtecodesantacruzitundujia
-│   │   ├── mixtecodesantainesdezaragoza
-│   │   ├── mixtecodesantaluciamonteverde
-│   │   ├── mixtecodesantamariahuazolotitlan
-│   │   ├── mixtecodesantamariapenoles
-│   │   ├── mixtecodesantamariayosoyua
-│   │   ├── mixtecodesantiagoamoltepec
-│   │   ├── mixtecodesantodomingotonal
-│   │   ├── mixtecodesierrasurnoroeste
-│   │   ├── mixtecodesierrasuroeste
-│   │   ├── mixtecodetlacoachistlahuaca
-│   │   ├── mixtecodetlahuapa
-│   │   ├── mixtecodetlalixtaquillademaldonado
-│   │   ├── mixtecodetlaltempan
-│   │   ├── mixtecodevilladetututepec
-│   │   ├── mixtecodexochapa
-│   │   ├── mixtecodexochistlahuaca
-│   │   ├── mixtecodexonacatlan
-│   │   ├── mixtecodeyosondua
-│   │   ├── mixtecodeyosonotu
-│   │   ├── mixtecodeyutanduchideguerrero
-│   │   ├── mixtecodezapotitlan
-│   │   └── mixtecodezoyatlandejuarez
-│   ├── otomi
-│   │   ├── otomibajodelnoroeste
-│   │   ├── otomideixtenco
-│   │   ├── otomidelasierra
-│   │   ├── otomidelcentro
-│   │   ├── otomidelnoroeste
-│   │   ├── otomideloeste
-│   │   ├── otomideloestedelvalledelmezquital
-│   │   ├── otomidelvalledelmezquital
-│   │   └── otomidetilapaodelsur
-│   ├── pame
-│   │   ├── pamedelcentro
-│   │   └── pamedelnorte
-│   ├── popoloca
-│   │   ├── popolocadelcentro
-│   │   ├── popolocadelnorte
-│   │   ├── popolocadelponiente
-│   │   └── popolocadeoriente
-│   ├── tlahuica
-│   │   └── tlahuica
-│   ├── tlapaneco
-│   │   ├── tlapanecocentralbajo
-│   │   ├── tlapanecodelcentro
-│   │   ├── tlapanecodeleste
-│   │   ├── tlapanecodelnoroestealto
-│   │   ├── tlapanecodelnoroestebajo
-│   │   ├── tlapanecodelnorte
-│   │   ├── tlapanecodeloeste
-│   │   ├── tlapanecodelsur
-│   │   └── tlapanecodelsuroeste
-│   ├── triqui
-│   │   ├── triquidelaalta
-│   │   ├── triquidelabaja
-│   │   ├── triquidelamedia
-│   │   └── triquidesanjuancopala
-│   └── zapoteco
-│       ├── zapotecodeasunciontlacolulita
-│       ├── zapotecodelacostacentral
-│       ├── zapotecodelacostaeste
-│       ├── zapotecodelacostanoreste
-│       ├── zapotecodelacostaoeste
-│       ├── zapotecodelamontanadelistmoalto
-│       ├── zapotecodelamontanadelistmobajo
-│       ├── zapotecodelaplaniciecostera
-│       ├── zapotecodelasierrasurcentral
-│       ├── zapotecodelasierrasurdelestebajo
-│       ├── zapotecodelasierrasurdelnorte
-│       ├── zapotecodelasierrasurdelsurestealto
-│       ├── zapotecodelasierrasurdelsurestebajo
-│       ├── zapotecodelasierrasurnoreste
-│       ├── zapotecodelasierrasurnoroeste
-│       ├── zapotecodelasierrasurnoroestealto
-│       ├── zapotecodelasierrasurnoroestebajo
-│       ├── zapotecodelasierrasurnoroestemedio
-│       ├── zapotecodelasierrasuroestebajo
-│       ├── zapotecodeloestedetuxtepec
-│       ├── zapotecodemixtepec
-│       ├── zapotecodepetapa
-│       ├── zapotecodequiavicuzas
-│       ├── zapotecodesanantoninoelalto
-│       ├── zapotecodesanbaltazarchichicapam
-│       ├── zapotecodesanbartoloyautepec
-│       ├── zapotecodesanfelipetejalapam
-│       ├── zapotecodesanmiguelaloapam
-│       ├── zapotecodesantamariaquiegolani
-│       ├── zapotecodesantamariatemaxcalapa
-│       ├── zapotecodesantiagolaxopa
-│       ├── zapotecodesantiagoyaveo
-│       ├── zapotecodesanvicentecoatlan
-│       ├── zapotecodesierrasurdelnorestealto
-│       ├── zapotecodetexmelucan
-│       ├── zapotecodevallesdelcentro
-│       ├── zapotecodevallesdelcentrobajo
-│       ├── zapotecodevallesdelestecentral
-│       ├── zapotecodevallesdelestemedio
-│       ├── zapotecodevallesdelnoreste
-│       ├── zapotecodevallesdelnoroestebajo
-│       ├── zapotecodevallesdelnoroestemedio
-│       ├── zapotecodevallesdelnortecentral
-│       ├── zapotecodevallesdeloestecentral
-│       ├── zapotecodevallesdelsur
-│       ├── zapotecodevallesdelsuroestecentral
-│       ├── zapotecodevallesdelsuroestemedio
-│       ├── zapotecodevallesdesuroestealto
-│       ├── zapotecodevallesnoroeste
-│       ├── zapotecodevallesnorte
-│       ├── zapotecodevallesoeste
-│       ├── zapotecodezimatlandealvarez
-│       ├── zapotecoserranobajo
-│       ├── zapotecoserranodeleste
-│       ├── zapotecoserranodelnoroeste
-│       ├── zapotecoserranodelnoroestebajo
-│       ├── zapotecoserranodeloeste
-│       ├── zapotecoserranodeloestemedio
-│       ├── zapotecoserranodelsureste
-│       ├── zapotecoserranodelsurestealto
-│       ├── zapotecoserranodelsurestebajo
-│       └── zapotecoserranodelsurestemedio
-├── seri
-│   └── seri
-│       └── seri
-├── tarasca
-│   └── tarasco
-│       └── pue‚pecha
-├── totonacotepehua
-│   ├── tepehua
-│   │   ├── tepehuadelnorte
-│   │   ├── tepehuadeloeste
-│   │   └── tepehuadelsur
-│   └── totonaco
-│       ├── totonacocentralalto
-│       ├── totonacocentraldelnorte
-│       ├── totonacocentraldelsur
-│       ├── totonacodelacosta
-│       ├── totonacodelcerroxinolatepetl
-│       ├── totonacodelrionecaxa
-│       └── totonacodelsureste
-└── yutonahua
-    ├── cora
-    │   ├── coracorapeno
-    │   ├── coradedolores
-    │   ├── coradejesusmaria
-    │   ├── coraderosarito
-    │   ├── corafrancisqueno
-    │   ├── corameseno
-    │   ├── corapresideno
-    │   └── coratereseno
-    ├── guarijio
-    │   ├── guarijiodelnorte
-    │   └── guarijiodelsur
-    ├── huichol
-    │   ├── huicholdeleste
-    │   ├── huicholdelnorte
-    │   ├── huicholdeloeste
-    │   └── huicholdelsur
-    ├── mayo
-    │   └── mayo
-    ├── nahuatl
-    │   ├── mexicanoaltodeoccidente
-    │   ├── mexicanobajodeoccidente
-    │   ├── mexicanocentralbajo
-    │   ├── mexicanocentraldeoccidente
-    │   ├── mexicanodeguerrero
-    │   ├── mexicanodelahuastecahidalguense
-    │   ├── mexicanodelcentro
-    │   ├── mexicanodelcentroalto
-    │   ├── mexicanodelcentrobajo
-    │   ├── mexicanodelnoroeste
-    │   ├── mexicanodeloriente
-    │   ├── mexicanodelorientecentral
-    │   ├── mexicanodelorientedepuebla
-    │   ├── mexicanodeoccidente
-    │   ├── mexicanodepuentedeixtla
-    │   ├── mexicanodetemixco
-    │   ├── mexicanodeteteladelvolcan
-    │   ├── nahuatlaltodelnortedepuebla
-    │   ├── nahuatlcentraldeveracruz
-    │   ├── nahuatldelahuastecapotosina
-    │   ├── nahuatldelahuastecaveracruzana
-    │   ├── nahuatldelasierranegranorte
-    │   ├── nahuatldelasierranegrasur
-    │   ├── nahuatldelasierranorestedepuebla
-    │   ├── nahuatldelasierraoestedepuebla
-    │   ├── nahuatldelcentrodepuebla
-    │   ├── nahuatldelistmo
-    │   ├── nahuatldelistmobajo
-    │   ├── nahuatldelnoroestecentral
-    │   └── nahuatldeoaxaca
-    ├── papago
-    │   └── papago
-    ├── pima
-    │   ├── pimadeleste
-    │   ├── pimadelnorte
-    │   └── pimadelsur
-    ├── tarahumara
-    │   ├── tarahumaradecumbres
-    │   ├── tarahumaradelcentro
-    │   ├── tarahumaradelnorte
-    │   ├── tarahumaradeloeste
-    │   └── tarahumaradelsur
-    ├── tepehuanodelnorte
-    │   └── tepehuanodelnorte
-    ├── tepehuanodelsur
-    │   ├── tepehuanodelsuralto
-    │   ├── tepehuanodelsurbajo
-    │   └── tepehuanodelsurcentral
-    └── yaqui
-        └── yaqui
+algica
+        kickapoo
+                kickapoo
+chontaldeoaxaca
+        chontaldeoaxaca
+                chontaldeoaxacaalto
+                chontaldeoaxacabajo
+                chontaldeoaxacadelacosta
+cochimiyumana
+        cucapa
+                cucapa
+        kiliwa
+                kiliwa
+        kuahl
+                kuahl
+        kumiai
+                kumiai
+        paipai
+                paipai
+huave
+        huave
+                huavedeleste
+                huavedeloeste
+maya
+        akateko
+                akateko
+        awakateko
+                awakateko
+        chol
+                choldelnoroeste
+                choldelsureste
+        chontaldetabasco
+                chontaldetabascocentral
+                chontaldetabascodeleste
+                chontaldetabascodelnorte
+                chontaldetabascodelsureste
+        chuj
+                chuj
+        huasteco
+                huastecodelcentro
+                huastecodeloccidente
+                huastecodeoriente
+        ixil
+                ixilchajuleno
+                ixilnebajeno
+        jakalteko
+                jakalteko
+        kaqchikel
+                kaqchikel
+        kiche
+                kiche(central)
+                kiche(occidental)
+                kiche(oriental)
+        lacandon
+                lacandon
+        mam
+                mamdelafrontera
+                mamdelasierra
+                mamdelnorte
+                mamdelsoconusco
+                mamdelsur
+        maya
+                maya
+        qanjobal
+                qanjobal
+        qatok
+                mocho
+                tuzanteco
+        qeqchi
+                qeqchi
+        teko
+                teko
+        tojolabal
+                tojolabal
+        tseltal
+                tseltaldelnorte
+                tseltaldeloccidente
+                tseltaldeloriente
+                tseltaldelsur
+        tsotsil
+                tsotsildelcentro
+                tsotsildelestealto
+                tsotsildelestebajo
+                tsotsildelnoroeste
+                tsotsildelnortealto
+                tsotsildelnortebajo
+                tsotsildelosaltos
+mixezoque
+        ayapaneco
+                ayapaneco
+        mixe
+                mixealtodelcentro
+                mixealtodelnorte
+                mixealtodelsur
+                mixebajo
+                mixemediodeleste
+                mixemediodeloeste
+        oluteco
+                oluteco
+        popolucadelasierra
+                popolucadelasierra
+        sayulteco
+                sayulteco
+        texistepequeno
+                texistepequeno
+        zoque
+                zoquedelcentro
+                zoquedeleste
+                zoquedelnoroeste
+                zoquedelnortealto
+                zoquedelnortebajo
+                zoquedeloeste
+                zoquedelsur
+                zoquedelsureste
+otomangue
+        amuzgo
+                amuzgoaltodeleste
+                amuzgobajodeleste
+                amuzgodelnorte
+                amuzgodelsur
+        chatino
+                chatinocentral
+                chatinodezacatepec
+                chatinooccidentalalto
+                chatinooccidentalbajo
+                chatinoorientalalto
+                chatinoorientalbajo
+        chichimecojonaz
+                chichimecojonaz
+        chinanteco
+                chianatecodeloestecentralbajo
+                chinantecocentral
+                chinantecocentralbajo
+                chinantecodelasierra
+                chinantecodelnoroeste
+                chinantecodelnorte
+                chinantecodeloeste
+                chinantecodeloestecentralalto
+                chinantecodelsurestealto
+                chinantecodelsurestebajo
+                chinantecodelsurestemedio
+        chocholteco
+                chocholtecodeleste
+                chocholtecodeloeste
+                chocholtecodelsur
+        cuicateco
+                cuicatecodelcentro
+                cuicatecodelnorte
+                cuicatecodeloriente
+        ixcateco
+                ixcateco
+        matlatzinca
+                matlatzinca
+        mazahua
+                mazahuadeoccidente
+                mazahuadeoriente
+        mazateco
+                mazatecodeacatepec
+                mazatecodeeloxochitlan
+                mazatecodehuehuetlan
+                mazatecodelapresaalto
+                mazatecodelapresabajo
+                mazatecodelcentro
+                mazatecodelestebajo
+                mazatecodelnoreste
+                mazatecodelnorte
+                mazatecodeloeste
+                mazatecodelsur
+                mazatecodelsureste
+                mazatecodelsuroeste
+                mazatecodeocopetatillo
+                mazatecodepuebla
+                mazatecodetecoatl
+        mixteco
+                mixtecoaltodevalles
+                mixtecobajodevalles
+                mixtecocentral
+                mixtecocentraldeguerrero
+                mixtecodeatlamajalcingo
+                mixtecodeayutla
+                mixtecodecanadabajo
+                mixtecodecanadacentral
+                mixtecodechochoapa
+                mixtecodecoapanatoyac
+                mixtecodecoatzospam
+                mixtecodeguerrerocentralalto
+                mixtecodeguerrerodelacostacentral
+                mixtecodeguerrerodelacostaeste
+                mixtecodeguerrerodelacostaoccidental
+                mixtecodeguerrerodelestemedio
+                mixtecodeguerrerodelnorestecentral
+                mixtecodeguerrerodelnorte
+                mixtecodeguerrerodelnortecentral
+                mixtecodeigualapa
+                mixtecodeixtayutla
+                mixtecodelafronterapueblaoaxaca
+                mixtecodeleste
+                mixtecodelestecentral
+                mixtecodelnoreste
+                mixtecodelnorestebajo
+                mixtecodelnoroeste
+                mixtecodelnoroestecentralalto
+                mixtecodelnoroestecentralbajo
+                mixtecodelnoroestemedio
+                mixtecodelnortebajo
+                mixtecodeloeste
+                mixtecodeloestealto
+                mixtecodeloestedelacosta
+                mixtecodelsurbajo
+                mixtecodelsurestecentral
+                mixtecodelsurmedio
+                mixtecodelsuroeste
+                mixtecodelsuroestecentral
+                mixtecodelsuroestedepuebla
+                mixtecodemitlatongo
+                mixtecodenumi
+                mixtecodeoaxacadecostacentralbaja
+                mixtecodeoaxacadelacostacentral
+                mixtecodeoaxacadelacostanoroeste
+                mixtecodeoaxacadelacostaoestecentral
+                mixtecodeoestecentral
+                mixtecodesanagustintlacotepec
+                mixtecodesanantoniohuitepec
+                mixtecodesanantoniosinicahua
+                mixtecodesanjuantamazola
+                mixtecodesanjuanteita
+                mixtecodesanluisacatlan
+                mixtecodesanmateopenasco
+                mixtecodesanmiguelpiedras
+                mixtecodesanpablotijaltepec
+                mixtecodesanpedromolinos
+                mixtecodesanpedrotida
+                mixtecodesantacruzitundujia
+                mixtecodesantainesdezaragoza
+                mixtecodesantaluciamonteverde
+                mixtecodesantamariahuazolotitlan
+                mixtecodesantamariapenoles
+                mixtecodesantamariayosoyua
+                mixtecodesantiagoamoltepec
+                mixtecodesantodomingotonal
+                mixtecodesierrasurnoroeste
+                mixtecodesierrasuroeste
+                mixtecodetlacoachistlahuaca
+                mixtecodetlahuapa
+                mixtecodetlalixtaquillademaldonado
+                mixtecodetlaltempan
+                mixtecodevilladetututepec
+                mixtecodexochapa
+                mixtecodexochistlahuaca
+                mixtecodexonacatlan
+                mixtecodeyosondua
+                mixtecodeyosonotu
+                mixtecodeyutanduchideguerrero
+                mixtecodezapotitlan
+                mixtecodezoyatlandejuarez
+        otomi
+                otomibajodelnoroeste
+                otomideixtenco
+                otomidelasierra
+                otomidelcentro
+                otomidelnoroeste
+                otomideloeste
+                otomideloestedelvalledelmezquital
+                otomidelvalledelmezquital
+                otomidetilapaodelsur
+        pame
+                pamedelcentro
+                pamedelnorte
+        popoloca
+                popolocadelcentro
+                popolocadelnorte
+                popolocadelponiente
+                popolocadeoriente
+        tlahuica
+                tlahuica
+        tlapaneco
+                tlapanecocentralbajo
+                tlapanecodelcentro
+                tlapanecodeleste
+                tlapanecodelnoroestealto
+                tlapanecodelnoroestebajo
+                tlapanecodelnorte
+                tlapanecodeloeste
+                tlapanecodelsur
+                tlapanecodelsuroeste
+        triqui
+                triquidelaalta
+                triquidelabaja
+                triquidelamedia
+                triquidesanjuancopala
+        zapoteco
+                zapotecodeasunciontlacolulita
+                zapotecodelacostacentral
+                zapotecodelacostaeste
+                zapotecodelacostanoreste
+                zapotecodelacostaoeste
+                zapotecodelamontanadelistmoalto
+                zapotecodelamontanadelistmobajo
+                zapotecodelaplaniciecostera
+                zapotecodelasierrasurcentral
+                zapotecodelasierrasurdelestebajo
+                zapotecodelasierrasurdelnorte
+                zapotecodelasierrasurdelsurestealto
+                zapotecodelasierrasurdelsurestebajo
+                zapotecodelasierrasurnoreste
+                zapotecodelasierrasurnoroeste
+                zapotecodelasierrasurnoroestealto
+                zapotecodelasierrasurnoroestebajo
+                zapotecodelasierrasurnoroestemedio
+                zapotecodelasierrasuroestebajo
+                zapotecodeloestedetuxtepec
+                zapotecodemixtepec
+                zapotecodepetapa
+                zapotecodequiavicuzas
+                zapotecodesanantoninoelalto
+                zapotecodesanbaltazarchichicapam
+                zapotecodesanbartoloyautepec
+                zapotecodesanfelipetejalapam
+                zapotecodesanmiguelaloapam
+                zapotecodesantamariaquiegolani
+                zapotecodesantamariatemaxcalapa
+                zapotecodesantiagolaxopa
+                zapotecodesantiagoyaveo
+                zapotecodesanvicentecoatlan
+                zapotecodesierrasurdelnorestealto
+                zapotecodetexmelucan
+                zapotecodevallesdelcentro
+                zapotecodevallesdelcentrobajo
+                zapotecodevallesdelestecentral
+                zapotecodevallesdelestemedio
+                zapotecodevallesdelnoreste
+                zapotecodevallesdelnoroestebajo
+                zapotecodevallesdelnoroestemedio
+                zapotecodevallesdelnortecentral
+                zapotecodevallesdeloestecentral
+                zapotecodevallesdelsur
+                zapotecodevallesdelsuroestecentral
+                zapotecodevallesdelsuroestemedio
+                zapotecodevallesdesuroestealto
+                zapotecodevallesnoroeste
+                zapotecodevallesnorte
+                zapotecodevallesoeste
+                zapotecodezimatlandealvarez
+                zapotecoserranobajo
+                zapotecoserranodeleste
+                zapotecoserranodelnoroeste
+                zapotecoserranodelnoroestebajo
+                zapotecoserranodeloeste
+                zapotecoserranodeloestemedio
+                zapotecoserranodelsureste
+                zapotecoserranodelsurestealto
+                zapotecoserranodelsurestebajo
+                zapotecoserranodelsurestemedio
+seri
+        seri
+                seri
+tarasca
+        tarasco
+                pue‚pecha
+totonacotepehua
+        tepehua
+                tepehuadelnorte
+                tepehuadeloeste
+                tepehuadelsur
+        totonaco
+                totonacocentralalto
+                totonacocentraldelnorte
+                totonacocentraldelsur
+                totonacodelacosta
+                totonacodelcerroxinolatepetl
+                totonacodelrionecaxa
+                totonacodelsureste
+yutonahua
+        cora
+                coracorapeno
+                coradedolores
+                coradejesusmaria
+                coraderosarito
+                corafrancisqueno
+                corameseno
+                corapresideno
+                coratereseno
+        guarijio
+                guarijiodelnorte
+                guarijiodelsur
+        huichol
+                huicholdeleste
+                huicholdelnorte
+                huicholdeloeste
+                huicholdelsur
+        mayo
+                mayo
+        nahuatl
+                mexicanoaltodeoccidente
+                mexicanobajodeoccidente
+                mexicanocentralbajo
+                mexicanocentraldeoccidente
+                mexicanodeguerrero
+                mexicanodelahuastecahidalguense
+                mexicanodelcentro
+                mexicanodelcentroalto
+                mexicanodelcentrobajo
+                mexicanodelnoroeste
+                mexicanodeloriente
+                mexicanodelorientecentral
+                mexicanodelorientedepuebla
+                mexicanodeoccidente
+                mexicanodepuentedeixtla
+                mexicanodetemixco
+                mexicanodeteteladelvolcan
+                nahuatlaltodelnortedepuebla
+                nahuatlcentraldeveracruz
+                nahuatldelahuastecapotosina
+                nahuatldelahuastecaveracruzana
+                nahuatldelasierranegranorte
+                nahuatldelasierranegrasur
+                nahuatldelasierranorestedepuebla
+                nahuatldelasierraoestedepuebla
+                nahuatldelcentrodepuebla
+                nahuatldelistmo
+                nahuatldelistmobajo
+                nahuatldelnoroestecentral
+                nahuatldeoaxaca
+        papago
+                papago
+        pima
+                pimadeleste
+                pimadelnorte
+                pimadelsur
+        tarahumara
+                tarahumaradecumbres
+                tarahumaradelcentro
+                tarahumaradelnorte
+                tarahumaradeloeste
+                tarahumaradelsur
+        tepehuanodelnorte
+                tepehuanodelnorte
+        tepehuanodelsur
+                tepehuanodelsuralto
+                tepehuanodelsurbajo
+                tepehuanodelsurcentral
+        yaqui
+                yaqui
