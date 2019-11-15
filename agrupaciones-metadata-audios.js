@@ -10,49 +10,22 @@ cloudinary.config({
   api_secret: 'aFfbUl-pa1Ifrm79wHhUb3YQlq4'
 }); 
 
-const agrupaciones = jsonfile.readFileSync('./jsons-geo/agrupaciones.json')
+const agrupacionesConAudios = jsonfile.readFileSync('./agrupacionesConAudios.json')
+const agrupacionesAudiosMetadatos = jsonfile.readFileSync('./agrupaciones-audios-metadatos.json')
 
-agrupaciones.forEach(a => {
-  if (!a.audios) a.audios = []
-  let content = fs.readdirSync(`./imagenes-audios/${a.familiaId}/${a.id}/audios`) 
-  if (content.length > 1) {
-    
-    content.forEach( (c,i) => {
-
-      if ( !c.includes('.xls') && (c.includes('.mp3') || c.includes('.ogg')) ) {
-        console.log(a.id, c)
-        cloudinary.uploader.upload(
-          `./imagenes-audios/${a.familiaId}/${a.id}/audios/${c}`,
-          { 
-            public_id: `inali/imagenes//${a.familiaId}${a.id}/audios/${a.id}-${c}`,
-            resource_type: 'video'
-          }
-        ).then(function (audio) {
-          a.audios.push({
-            id: audio.public_id,
-            url: audio.url,
-            nombreArchivo: c
-          })
-        })
-        .catch(function (err) {
-          console.log();
-          console.log("** File Upload (Promise)");
-          if (err) { console.warn(err); }
-        });
-      }   
-    })
-  }
-
+agrupacionesConAudios.forEach(a => {
+  let agrupacionMetadatos = agrupacionesAudiosMetadatos.find(am => am.id === a.id)
+  // console.log(agrupacionMetadatos.familiaId, a.id, a.audios.length, agrupacionMetadatos.audiosMetadatos.length)
+  a.audios = a.audios.map(au => {
+    let audioMetadatos = agrupacionMetadatos.audiosMetadatos.find(am => au.nombreArchivo.includes(am.ID))
+    if (!audioMetadatos) console.log('no metadatos para: ', a.id, au.nombreArchivo);
+    else {
+      au = {...au, ...audioMetadatos}
+    }
+    return au
+  })
 })
 
-setTimeout(() => {
-  let agrupacionesConAudios = agrupaciones.map(a => {
-    return {
-      id: a.id,
-      audios: a.audios
-    }
-  })
-  console.log(agrupacionesConAudios);
-  
+setTimeout(() => {  
   jsonfile.writeFileSync('./agrupacionesConAudios.json', agrupacionesConAudios)
-}, 50000)
+}, 5000)

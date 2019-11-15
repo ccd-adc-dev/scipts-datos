@@ -1,0 +1,12 @@
+mapa interactivo
+  - lineas mapa
+  - estados por familia
+    - si se pudiera por 
+  - arrastrar las tarjetas
+  - separar el contenido de texto y esquema arbóreo
+
+  - esquema arbóreo 
+
+contenido agrupaciones
+  - revisar nombre originario, castellanizado, y otros nombres
+  - 
